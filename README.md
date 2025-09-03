@@ -1,5 +1,11 @@
 # My excersices
 
 Useful links:
-- [https://www.chatgpt.com]
-- [https://www.google.com]
+- [GENAI](https://www.chatgpt.com)
+- [GOOGLE](https://www.google.com)
+- [Coolbeans](www.bing.com)
+
+
+Formatting example:
+- **Bold** text
+- *Italic* text
