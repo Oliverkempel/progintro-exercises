@@ -7,5 +7,5 @@ Useful links:
 
 
 Formatting example:
-- **Bold** text
-- *Italic* text
+- **Bold** Emphasis
+- *Italic* Emphasis
